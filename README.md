@@ -1,6 +1,6 @@
 # Chăm Xe HUD: phần mềm cập nhật
 
-Bản mới nhất: **1.0.0** · Bản đầu tiên
+Bản mới nhất: **1.0.0** · phiên bản mới
 
 | Loại màn hình (xem ≡ › Thông tin trên HUD) | File |
 |---|---|
