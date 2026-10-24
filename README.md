@@ -1,13 +1,13 @@
 # Chăm Xe HUD: phần mềm cập nhật
 
-Bản mới nhất: **1.2.0** · Số giữa LED, ECO coach, máy dầu
+Bản mới nhất: **1.3.0** · VIN, Kiểm định, đo phanh, máy phát
 
 | Loại màn hình (xem ≡ › Thông tin trên HUD) | File |
 |---|---|
-| 3.5 inch (cyd35) | [chamxe-hud-cyd35-1.2.0.bin](https://github.com/cris-teams/chamxe-hud-firmware/releases/download/v1.2.0/chamxe-hud-cyd35-1.2.0.bin) |
-| 2.8 inch (cyd28) | [chamxe-hud-cyd28-1.2.0.bin](https://github.com/cris-teams/chamxe-hud-firmware/releases/download/v1.2.0/chamxe-hud-cyd28-1.2.0.bin) |
-| 2.8 inch (cyd28_st7789) | [chamxe-hud-cyd28_st7789-1.2.0.bin](https://github.com/cris-teams/chamxe-hud-firmware/releases/download/v1.2.0/chamxe-hud-cyd28_st7789-1.2.0.bin) |
-| 2.4 inch (cyd24) | [chamxe-hud-cyd24-1.2.0.bin](https://github.com/cris-teams/chamxe-hud-firmware/releases/download/v1.2.0/chamxe-hud-cyd24-1.2.0.bin) |
+| 3.5 inch (cyd35) | [chamxe-hud-cyd35-1.3.0.bin](https://github.com/cris-teams/chamxe-hud-firmware/releases/download/v1.3.0/chamxe-hud-cyd35-1.3.0.bin) |
+| 2.8 inch (cyd28) | [chamxe-hud-cyd28-1.3.0.bin](https://github.com/cris-teams/chamxe-hud-firmware/releases/download/v1.3.0/chamxe-hud-cyd28-1.3.0.bin) |
+| 2.8 inch (cyd28_st7789) | [chamxe-hud-cyd28_st7789-1.3.0.bin](https://github.com/cris-teams/chamxe-hud-firmware/releases/download/v1.3.0/chamxe-hud-cyd28_st7789-1.3.0.bin) |
+| 2.4 inch (cyd24) | [chamxe-hud-cyd24-1.3.0.bin](https://github.com/cris-teams/chamxe-hud-firmware/releases/download/v1.3.0/chamxe-hud-cyd24-1.3.0.bin) |
 
 File đã được Chăm Xe ký; HUD từ chối file không chính hãng hoặc sai loại màn hình.
 Các bản trước: [Releases](https://github.com/cris-teams/chamxe-hud-firmware/releases).
@@ -49,7 +49,7 @@ Có 3 cách, chọn cách nào cũng được. Cài đặt, giao diện và lị
 
 1. Trên điện thoại, tải file phần mềm mới từ trang Chăm Xe. Chọn đúng loại màn hình ghi trong **Thông tin** (ví dụ `chamxe-hud-cyd35-1.1.0.bin` cho màn 3.5 inch).
 2. Trên HUD: **≡ › Thông tin › Cập nhật phần mềm**. HUD hiện một mã QR.
-3. Dùng camera điện thoại quét mã QR để vào Wi-Fi **ChamXe-HUD-…**. Mã QR trên HUD đổi sang mã thứ hai: quét tiếp (hoặc mở trình duyệt, gõ `192.168.4.1`).
+3. Dùng camera điện thoại quét mã QR để vào Wi-Fi **ChamXe-HUD-…**. Mã QR trên HUD đổi sang mã thứ hai: quét tiếp (hoặc mở trình duyệt, gõ `10.2.3.23`).
 4. Trên trang hiện ra, chọn file vừa tải ở bước 1.
 5. Chờ HUD báo **"Đã cập nhật"**, HUD tự khởi động lại. Điện thoại tự quay về Wi-Fi/4G cũ.
 
