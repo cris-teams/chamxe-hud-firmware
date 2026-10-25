@@ -1,13 +1,13 @@
 # Chăm Xe HUD: phần mềm cập nhật
 
-Bản mới nhất: **1.3.0** · VIN, Kiểm định, đo phanh, máy phát
+Bản mới nhất: **1.5.0** · Dẫn đường + cảnh báo tốc độ qua app
 
 | Loại màn hình (xem ≡ › Thông tin trên HUD) | File |
 |---|---|
-| 3.5 inch (cyd35) | [chamxe-hud-cyd35-1.3.0.bin](https://github.com/cris-teams/chamxe-hud-firmware/releases/download/v1.3.0/chamxe-hud-cyd35-1.3.0.bin) |
-| 2.8 inch (cyd28) | [chamxe-hud-cyd28-1.3.0.bin](https://github.com/cris-teams/chamxe-hud-firmware/releases/download/v1.3.0/chamxe-hud-cyd28-1.3.0.bin) |
-| 2.8 inch (cyd28_st7789) | [chamxe-hud-cyd28_st7789-1.3.0.bin](https://github.com/cris-teams/chamxe-hud-firmware/releases/download/v1.3.0/chamxe-hud-cyd28_st7789-1.3.0.bin) |
-| 2.4 inch (cyd24) | [chamxe-hud-cyd24-1.3.0.bin](https://github.com/cris-teams/chamxe-hud-firmware/releases/download/v1.3.0/chamxe-hud-cyd24-1.3.0.bin) |
+| 3.5 inch (cyd35) | [chamxe-hud-cyd35-1.5.0.bin](https://github.com/cris-teams/chamxe-hud-firmware/releases/download/v1.5.0/chamxe-hud-cyd35-1.5.0.bin) |
+| 2.8 inch (cyd28) | [chamxe-hud-cyd28-1.5.0.bin](https://github.com/cris-teams/chamxe-hud-firmware/releases/download/v1.5.0/chamxe-hud-cyd28-1.5.0.bin) |
+| 2.8 inch (cyd28_st7789) | [chamxe-hud-cyd28_st7789-1.5.0.bin](https://github.com/cris-teams/chamxe-hud-firmware/releases/download/v1.5.0/chamxe-hud-cyd28_st7789-1.5.0.bin) |
+| 2.4 inch (cyd24) | [chamxe-hud-cyd24-1.5.0.bin](https://github.com/cris-teams/chamxe-hud-firmware/releases/download/v1.5.0/chamxe-hud-cyd24-1.5.0.bin) |
 
 File đã được Chăm Xe ký; HUD từ chối file không chính hãng hoặc sai loại màn hình.
 Các bản trước: [Releases](https://github.com/cris-teams/chamxe-hud-firmware/releases).
