@@ -1,13 +1,13 @@
 # Chăm Xe HUD: phần mềm cập nhật
 
-Bản mới nhất: **1.8.0**
+Bản mới nhất: **2.0.0** · Chăm máy: nước mát, đánh lửa, turbo
 
 | Loại màn hình (xem ≡ › Thông tin trên HUD) | File |
 |---|---|
-| 3.5 inch (cyd35) | [chamxe-hud-cyd35-1.8.0.bin](https://github.com/cris-teams/chamxe-hud-firmware/releases/download/v1.8.0/chamxe-hud-cyd35-1.8.0.bin) |
-| 2.8 inch (cyd28) | [chamxe-hud-cyd28-1.8.0.bin](https://github.com/cris-teams/chamxe-hud-firmware/releases/download/v1.8.0/chamxe-hud-cyd28-1.8.0.bin) |
-| 2.8 inch (cyd28_st7789) | [chamxe-hud-cyd28_st7789-1.8.0.bin](https://github.com/cris-teams/chamxe-hud-firmware/releases/download/v1.8.0/chamxe-hud-cyd28_st7789-1.8.0.bin) |
-| 2.4 inch (cyd24) | [chamxe-hud-cyd24-1.8.0.bin](https://github.com/cris-teams/chamxe-hud-firmware/releases/download/v1.8.0/chamxe-hud-cyd24-1.8.0.bin) |
+| 3.5 inch (cyd35) | [chamxe-hud-cyd35-2.0.0.bin](https://github.com/cris-teams/chamxe-hud-firmware/releases/download/v2.0.0/chamxe-hud-cyd35-2.0.0.bin) |
+| 2.8 inch (cyd28) | [chamxe-hud-cyd28-2.0.0.bin](https://github.com/cris-teams/chamxe-hud-firmware/releases/download/v2.0.0/chamxe-hud-cyd28-2.0.0.bin) |
+| 2.8 inch (cyd28_st7789) | [chamxe-hud-cyd28_st7789-2.0.0.bin](https://github.com/cris-teams/chamxe-hud-firmware/releases/download/v2.0.0/chamxe-hud-cyd28_st7789-2.0.0.bin) |
+| 2.4 inch (cyd24) | [chamxe-hud-cyd24-2.0.0.bin](https://github.com/cris-teams/chamxe-hud-firmware/releases/download/v2.0.0/chamxe-hud-cyd24-2.0.0.bin) |
 
 File đã được Chăm Xe ký; HUD từ chối file không chính hãng hoặc sai loại màn hình.
 Các bản trước: [Releases](https://github.com/cris-teams/chamxe-hud-firmware/releases).
