@@ -1,13 +1,13 @@
 # Chăm Xe HUD: phần mềm cập nhật
 
-Bản mới nhất: **2.1.1** · Sửa lỗi khởi động lại ở Sức khoẻ xe
+Bản mới nhất: **2.3.0** · Hạn thay dầu, đổ đèo, giao xe, QR thợ
 
 | Loại màn hình (xem ≡ › Thông tin trên HUD) | File |
 |---|---|
-| 3.5 inch (cyd35) | [chamxe-hud-cyd35-2.1.1.bin](https://github.com/cris-teams/chamxe-hud-firmware/releases/download/v2.1.1/chamxe-hud-cyd35-2.1.1.bin) |
-| 2.8 inch (cyd28) | [chamxe-hud-cyd28-2.1.1.bin](https://github.com/cris-teams/chamxe-hud-firmware/releases/download/v2.1.1/chamxe-hud-cyd28-2.1.1.bin) |
-| 2.8 inch (cyd28_st7789) | [chamxe-hud-cyd28_st7789-2.1.1.bin](https://github.com/cris-teams/chamxe-hud-firmware/releases/download/v2.1.1/chamxe-hud-cyd28_st7789-2.1.1.bin) |
-| 2.4 inch (cyd24) | [chamxe-hud-cyd24-2.1.1.bin](https://github.com/cris-teams/chamxe-hud-firmware/releases/download/v2.1.1/chamxe-hud-cyd24-2.1.1.bin) |
+| 3.5 inch (cyd35) | [chamxe-hud-cyd35-2.3.0.bin](https://github.com/cris-teams/chamxe-hud-firmware/releases/download/v2.3.0/chamxe-hud-cyd35-2.3.0.bin) |
+| 2.8 inch (cyd28) | [chamxe-hud-cyd28-2.3.0.bin](https://github.com/cris-teams/chamxe-hud-firmware/releases/download/v2.3.0/chamxe-hud-cyd28-2.3.0.bin) |
+| 2.8 inch (cyd28_st7789) | [chamxe-hud-cyd28_st7789-2.3.0.bin](https://github.com/cris-teams/chamxe-hud-firmware/releases/download/v2.3.0/chamxe-hud-cyd28_st7789-2.3.0.bin) |
+| 2.4 inch (cyd24) | [chamxe-hud-cyd24-2.3.0.bin](https://github.com/cris-teams/chamxe-hud-firmware/releases/download/v2.3.0/chamxe-hud-cyd24-2.3.0.bin) |
 
 File đã được Chăm Xe ký; HUD từ chối file không chính hãng hoặc sai loại màn hình.
 Các bản trước: [Releases](https://github.com/cris-teams/chamxe-hud-firmware/releases).
